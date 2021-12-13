@@ -2,9 +2,7 @@
 
 Here's a link to the main cave descriptions - 
 
-<a href= https://tr1813.github.io/ancient-ice-in-austria/main/descriptions/descriptions.html title="Cave Descriptions">Cave Descriptions</a>
-
-
+[cave descriptions](https://github.com/tr1813/tr1813.github.io/ancient-ice-in-austria/main/descriptions/descriptions.html)
 
 You can use the [editor on GitHub](https://github.com/tr1813/tr1813.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
